@@ -1,0 +1,10 @@
+{
+  "name": "regen",
+  "version": "0.0.1",
+  "description": "Test task",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "redis": "^2.6.3",
+    "tracer": "^0.8.7"
+  }
+}
